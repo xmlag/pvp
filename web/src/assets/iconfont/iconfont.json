@@ -1,0 +1,86 @@
+{
+  "id": "1424704",
+  "name": "pvp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "270418",
+      "name": "cos",
+      "font_class": "cos",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "884321",
+      "name": "体验",
+      "font_class": "wangyuanjing",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "2315104",
+      "name": "book",
+      "font_class": "book",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2604738",
+      "name": "版本",
+      "font_class": "banben",
+      "unicode": "e989",
+      "unicode_decimal": 59785
+    },
+    {
+      "icon_id": "3948025",
+      "name": "卷轴-1",
+      "font_class": "juanzhou-",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4261494",
+      "name": " 路标",
+      "font_class": "lubiao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7214985",
+      "name": "Purse",
+      "font_class": "Purse",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "7896972",
+      "name": "王者荣耀-",
+      "font_class": "wangzherongyao-",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "9591312",
+      "name": "公总号策划",
+      "font_class": "gongzonghaocehua",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "10961728",
+      "name": "新闻",
+      "font_class": "xinwen",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10962054",
+      "name": "arrow up",
+      "font_class": "arrowup",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

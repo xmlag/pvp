@@ -1,0 +1,49 @@
+
+// colors
+$colors:(
+  "primary":#db9e3f,
+  "blue":#4394e4,
+  "info":#4b67af,
+  "white":#fff,
+  "light":#f9f9f9,
+  "gray":#999,
+  "dark-1":#343440,
+  "dark":#222,
+  "black":#000,
+  "difficult":#805300,
+  "skills":#1f3695,
+  "attack":#781a16,
+  "survive":#33332c,
+  "btn-lg-border":#eceef0,
+  "btn-lg-bg":#fcfcfc,
+);
+
+$border-color: #ddd;
+// font-size
+$base-font-size:1rem; // 13px
+$font-sizes:(
+  xxs:0.6154, // 8px
+  xs:0.7692, // 10px
+  sm:0.9231, // 12px
+  md:1, // 13px
+  lg:1.0769, // 14px
+  xl:1.2308, // 16px
+);
+
+$flex-jc:(
+  start: flex-start,
+  end: flex-end,
+  center: center,
+  between: space-between,
+  around: space-around,
+);
+
+$flex-ai:(
+  start: flex-start,
+  end: flex-end,
+  center: center,
+  stretch: stretch,
+);
+
+
+
